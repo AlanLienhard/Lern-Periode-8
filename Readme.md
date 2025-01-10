@@ -5,7 +5,7 @@ Lern-Periode 8
 ## Grob-Planung
 
 1. Ich stehe mit den Noten gerade genügend, aber ich könnte viel besser sein. Ich hatte beim Modul M294 eine viel schlechtere Note als erwartet, sonst verliefen die anderen Module mehr oder weniger wie geplant.
-2. Ich habe keine grossen Pläne für Projekte, weil diese LP sehr kurz ist.
+2. Ich habe keine grossen Pläne für Projekte, weil diese LP sehr kurz ist. Ich möchte aber unbedingt mit meinem RPG-Projekt abschliessen.
 
 ## 10.1.2025
 
