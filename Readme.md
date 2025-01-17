@@ -17,12 +17,22 @@ Lern-Periode 8
 Ich habe es heute geschafft, die Fehler fertig zu beheben. Ich habe dann mit dem "Base-Game" abgeschlossen und ein bisschen mit zusätzlichen Funktionen angefangen (diese warren auch im Tutorial) und ich werde vermutlich noch am Wochenende weiterarbeiten. Ich habe auch eine neue Projektidee, nämlich das Modding von einem meiner Lieblingsspiele "Terraria" mittels dem tModLoader. (54 Wörter)
 
 
-##17.01.2025
+## 17.01.2025
 
 - [ ] Für das Modding-Projekt die tModLoader-Dokumentation lesen, damit ich ihn besser kenne.
-- [ ] Mit einer kleinen Mod, einem eigenen Item, anfangen.
-- [ ] An der Mod weiter arbeiten
-- [ ] An der Mod weiter arbeiten
+- [x] Mit einer kleinen Mod, einem eigenen Item, anfangen.
+- [x] An der Mod weiter arbeiten
+- [x] An der Mod weiter arbeiten
+
+Ich habe heute sogar ziemlich lange die Dokumentationen gelesen, jedoch kann ich nicht behaupten, dass ich das Ganze gut verstehe, weil es so umfangreich ist. Ich habe heute ein eigenes Schwert erstellt und habe auch ein Projektil (Holzpfeil) beim Benutzen vom Schwert hinzugefügt. Eigene Sprites habe ich noch nicht gemacht. Für nächstes mal, möchte ich ein eigenes Item machen.
+Auf Sprites möchte ich mich nicht so stark konzentrieren, weil mich die technischen Aspekte mehr interessieren und vor allem, weil ich künstlerisch sehr schlecht bin. Vermutlich werde ich schon verhandene Sprites nehmen und diese ein bisschen abändern, damit sie sich vom Original unterscheiden. (102 Wörter)
+
+## 24.01.2025
+
+- [ ] Mehr am ersten Schwert arbeiten, evtl ein Cooldown für das schiessen vom Projektil (Holzpfeil) erstellen.
+- [ ] Mit neuem Item anfangen. Wenn möglich, ist es ein Accessoire, wie zum Beispiel das (https://terraria.fandom.com/wiki/Cell_Phone) Cellphone.
+- [ ] Am Item arbeiten
+- [ ] Am Item arbeiten
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
