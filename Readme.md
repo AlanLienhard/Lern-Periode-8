@@ -29,12 +29,14 @@ Auf Sprites möchte ich mich nicht so stark konzentrieren, weil mich die technis
 
 ## 24.01.2025
 
-- [ ] Mehr am ersten Schwert arbeiten, evtl ein Cooldown für das schiessen vom Projektil (Holzpfeil) erstellen.
-- [ ] Mit neuem Item anfangen. Wenn möglich, ist es ein Accessoire, wie zum Beispiel das (https://terraria.fandom.com/wiki/Cell_Phone) Cellphone.
-- [ ] Am Item arbeiten
-- [ ] Am Item arbeiten
+- [x] Mehr am ersten Schwert arbeiten, evtl ein Cooldown für das schiessen vom Projektil (Holzpfeil) erstellen.
+- [x] Mit neuem Item anfangen. Wenn möglich, ist es ein Accessoire, wie zum Beispiel das (https://terraria.fandom.com/wiki/Cell_Phone) Cellphone.
+- [x] Am Item arbeiten
+- [x] Am Item arbeiten
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich weiter am Schwert gearbeitet. Anstatt einen Cooldown zu erstellen (ich habe diese Klasse/Methode nicht im tModLoader-Wiki gefunden), habe ich die Geschwindigkeit vom Schwert heruntergeschraubt.
+Als neues Item, habe ich ein Rüstungsteil, Leggings, gemacht. Ich hatte lange Zeit Probleme, die Mod überhaupt zu starten, weil ich Fehler beim Laden der Textur hatte. Ich habe es geschafft (durchs Ändern des Dateinamen und Directory-Pfade), jedoch ist die Textur im Inventar noch nicht richtig geladen worden (sieht komisch aus). Als nächstes dachte ich mir, entweder ein Accessoire-Item zu erstellen, oder das Rüstungsset zu beenden (ich brauche noch eine Brustplatte und einen Helm).
+(74 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
