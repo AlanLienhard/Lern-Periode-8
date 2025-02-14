@@ -38,6 +38,13 @@ Auf Sprites möchte ich mich nicht so stark konzentrieren, weil mich die technis
 Als neues Item, habe ich ein Rüstungsteil, Leggings, gemacht. Ich hatte lange Zeit Probleme, die Mod überhaupt zu starten, weil ich Fehler beim Laden der Textur hatte. Ich habe es geschafft (durchs Ändern des Dateinamen und Directory-Pfade), jedoch ist die Textur im Inventar noch nicht richtig geladen worden (sieht komisch aus). Als nächstes dachte ich mir, entweder ein Accessoire-Item zu erstellen, oder das Rüstungsset zu beenden (ich brauche noch eine Brustplatte und einen Helm).
 (74 Wörter)
 
+## 14.02.2025
+
+- [ ] Mit Accessoire-Item anfangen, das meine Laufgeschwindigkeit erhöhen soll (evtl. auch noch mehr, z.B. fliegen wie Rocket Boots)
+- [ ] Am Accesoire-Item fortfahren
+- [ ] Am Accesoire-Item fortfahren
+- [ ] Am Accesoire-Item fortfahren
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## ...
